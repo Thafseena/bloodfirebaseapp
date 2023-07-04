@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871327350198",
+    "project_id": "flutterbloodapptutorial",
+    "storage_bucket": "flutterbloodapptutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871327350198:android:00e69a4467a1c79f8b9517",
+        "android_client_info": {
+          "package_name": "com.example.bloodfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871327350198-3ri3538lloq3suf8kfho9349l2g93j4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHEb91vpVm0egvYJP7n4jXrA-mWihBeTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871327350198-3ri3538lloq3suf8kfho9349l2g93j4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
